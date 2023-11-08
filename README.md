@@ -26,7 +26,7 @@ Follow these steps to create and deploy your static website to Azure:
 3. Run the following command to create a new Azure Static Web App resource:
 
    ```bash
-   az staticwebapp create --name <azure-static-web-app> --location <East US> --resource-group <RG-static-web-app> --src "/src" --token "https://github.com/ARTSZL/azure-static-web-app.git"
+   az staticwebapp create --name azure-static-web-app --location East US --resource-group RG-static-web-app --src "/src" --token "https://github.com/ARTSZL/azure-static-web-app.git"
 
 4. Configure Your Deployment:
 
