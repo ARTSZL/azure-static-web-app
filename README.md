@@ -46,8 +46,8 @@ Feel free to customize your static website and its content as needed. You can al
 
 ## Resources
 
-[Azure Static Web Apps Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/)
-[Azure CLI Documentation](https://learn.microsoft.com/en-us/cli/azure/)
+- [Azure Static Web Apps Documentation](https://learn.microsoft.com/en-us/azure/static-web-apps/)
+- [Azure CLI Documentation](https://learn.microsoft.com/en-us/cli/azure/)
 
 ## License
 
