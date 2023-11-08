@@ -26,3 +26,9 @@ main > h2 {
   font-size: 2.5em;
   font-weight: 500;
 }
+
+main > p {
+  text-align: center;
+  font-size: 1.25em;
+  font-weight: 400;
+}
